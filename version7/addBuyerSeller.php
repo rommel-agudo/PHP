@@ -3,7 +3,7 @@ require_once 'framework/htmlTemplate.php';
 require_once 'siteFunctions/commonFunctions.php';
 require_once 'siteFunctions/masterPage.php';
 require_once 'siteFunctions/sellerPage.php';
-//added a line here lol
+//added a line here lol part two
 	
 	$error = null;
 	$pg=new MasterPage();
